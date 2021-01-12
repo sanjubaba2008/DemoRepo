@@ -11,5 +11,7 @@ public class AdditionDemo {
 		System.out.println(firstNumber + secondNumber);
 		
 	}
+	public static substraction(int first, int second){
+		System.out.println(first - second);
 
 }
